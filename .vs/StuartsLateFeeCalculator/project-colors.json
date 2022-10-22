@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d079d5da-18cf-4ef6-a7c6-e3c8f6a157c0": {
+      "ProjectGuid": "d079d5da-18cf-4ef6-a7c6-e3c8f6a157c0",
+      "DisplayName": "StuartsLateFeeCalculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

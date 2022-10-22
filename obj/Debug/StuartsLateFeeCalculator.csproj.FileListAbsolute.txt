@@ -1,0 +1,14 @@
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\bin\Debug\StuartsLateFeeCalculator.exe.config
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\bin\Debug\StuartsLateFeeCalculator.exe
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\bin\Debug\StuartsLateFeeCalculator.pdb
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.csproj.AssemblyReference.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.frmLibrary.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.frmMain.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.frmNew.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.frmSystems.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.Properties.Resources.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.csproj.GenerateResource.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.exe
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.pdb
