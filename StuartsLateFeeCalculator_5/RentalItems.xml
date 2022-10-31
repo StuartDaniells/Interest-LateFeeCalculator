@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RentalItems>
+    <RentalItem>
+        <StockNo>1001</StockNo>
+        <Description>Clone Wars</Description>
+        <Rating>MA</Rating>
+    </RentalItem>
+    <RentalItem>
+        <StockNo>1138</StockNo>
+        <Description>Star Wars   </Description>
+        <Rating>MA</Rating>
+    </RentalItem>
+</RentalItems>

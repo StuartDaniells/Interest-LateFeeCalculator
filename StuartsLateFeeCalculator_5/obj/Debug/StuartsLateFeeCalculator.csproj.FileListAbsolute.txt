@@ -1,0 +1,118 @@
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\bin\Debug\StuartsLateFeeCalculator.exe.config
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\bin\Debug\StuartsLateFeeCalculator.exe
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\bin\Debug\StuartsLateFeeCalculator.pdb
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.csproj.AssemblyReference.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.frmLibrary.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.frmMain.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.frmNew.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.frmSystems.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.Properties.Resources.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.csproj.GenerateResource.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.exe
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 1\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.pdb
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator\bin\Debug\StuartsLateFeeCalculator.exe.config
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator\bin\Debug\StuartsLateFeeCalculator.exe
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator\bin\Debug\StuartsLateFeeCalculator.pdb
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.csproj.AssemblyReference.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.frmLibrary.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.frmMain.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.frmNew.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.frmSystems.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.Properties.Resources.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.csproj.GenerateResource.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.exe
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator\obj\Debug\StuartsLateFeeCalculator.pdb
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator_2\bin\Debug\StuartsLateFeeCalculator.exe.config
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator_2\bin\Debug\StuartsLateFeeCalculator.exe
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator_2\bin\Debug\StuartsLateFeeCalculator.pdb
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator_2\obj\Debug\StuartsLateFeeCalculator.csproj.AssemblyReference.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator_2\obj\Debug\StuartsLateFeeCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator_2\obj\Debug\StuartsLateFeeCalculator.frmLibrary.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator_2\obj\Debug\StuartsLateFeeCalculator.frmMain.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator_2\obj\Debug\StuartsLateFeeCalculator.frmNew.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator_2\obj\Debug\StuartsLateFeeCalculator.frmSystems.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator_2\obj\Debug\StuartsLateFeeCalculator.Properties.Resources.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator_2\obj\Debug\StuartsLateFeeCalculator.csproj.GenerateResource.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator_2\obj\Debug\StuartsLateFeeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator_2\obj\Debug\StuartsLateFeeCalculator.exe
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 2\StuartsLateFeeCalculator_2\obj\Debug\StuartsLateFeeCalculator.pdb
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 3\StuartsLateFeeCalculator_3\bin\Debug\StuartsLateFeeCalculator.exe.config
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 3\StuartsLateFeeCalculator_3\bin\Debug\StuartsLateFeeCalculator.exe
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 3\StuartsLateFeeCalculator_3\bin\Debug\StuartsLateFeeCalculator.pdb
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.csproj.AssemblyReference.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.frmLibrary.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.frmMain.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.frmNew.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.frmSystems.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.Properties.Resources.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.csproj.GenerateResource.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.exe
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.pdb
+C:\Users\Lambton Residence\OneDrive - Campus Living Centres\CLC Docs\Front Desk PC Files\Desktop\Assignment 3\StuartsLateFeeCalculator_3\bin\Debug\StuartsLateFeeCalculator.exe.config
+C:\Users\Lambton Residence\OneDrive - Campus Living Centres\CLC Docs\Front Desk PC Files\Desktop\Assignment 3\StuartsLateFeeCalculator_3\bin\Debug\StuartsLateFeeCalculator.exe
+C:\Users\Lambton Residence\OneDrive - Campus Living Centres\CLC Docs\Front Desk PC Files\Desktop\Assignment 3\StuartsLateFeeCalculator_3\bin\Debug\StuartsLateFeeCalculator.pdb
+C:\Users\Lambton Residence\OneDrive - Campus Living Centres\CLC Docs\Front Desk PC Files\Desktop\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.csproj.AssemblyReference.cache
+C:\Users\Lambton Residence\OneDrive - Campus Living Centres\CLC Docs\Front Desk PC Files\Desktop\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lambton Residence\OneDrive - Campus Living Centres\CLC Docs\Front Desk PC Files\Desktop\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.frmLibrary.resources
+C:\Users\Lambton Residence\OneDrive - Campus Living Centres\CLC Docs\Front Desk PC Files\Desktop\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.frmMain.resources
+C:\Users\Lambton Residence\OneDrive - Campus Living Centres\CLC Docs\Front Desk PC Files\Desktop\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.frmNew.resources
+C:\Users\Lambton Residence\OneDrive - Campus Living Centres\CLC Docs\Front Desk PC Files\Desktop\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.frmSystems.resources
+C:\Users\Lambton Residence\OneDrive - Campus Living Centres\CLC Docs\Front Desk PC Files\Desktop\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.Properties.Resources.resources
+C:\Users\Lambton Residence\OneDrive - Campus Living Centres\CLC Docs\Front Desk PC Files\Desktop\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.csproj.GenerateResource.cache
+C:\Users\Lambton Residence\OneDrive - Campus Living Centres\CLC Docs\Front Desk PC Files\Desktop\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Lambton Residence\OneDrive - Campus Living Centres\CLC Docs\Front Desk PC Files\Desktop\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.exe
+C:\Users\Lambton Residence\OneDrive - Campus Living Centres\CLC Docs\Front Desk PC Files\Desktop\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.pdb
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 3\StuartsLateFeeCalculator_3\obj\Debug\StuartsLateFeeCalculator.frmLateGames.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 4\StuartsLateFeeCalculator_4\bin\Debug\StuartsLateFeeCalculator.exe.config
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 4\StuartsLateFeeCalculator_4\bin\Debug\StuartsLateFeeCalculator.exe
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 4\StuartsLateFeeCalculator_4\bin\Debug\StuartsLateFeeCalculator.pdb
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.csproj.AssemblyReference.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.frmLateGames.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.frmLibrary.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.frmMain.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.frmNew.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.frmSystems.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.Properties.Resources.resources
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.csproj.GenerateResource.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.exe
+C:\Users\stuar\OneDrive\Attachments\Desktop\C#\assignments\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.pdb
+D:\c#\Assignment 4\StuartsLateFeeCalculator_4\bin\Debug\StuartsLateFeeCalculator.exe.config
+D:\c#\Assignment 4\StuartsLateFeeCalculator_4\bin\Debug\StuartsLateFeeCalculator.exe
+D:\c#\Assignment 4\StuartsLateFeeCalculator_4\bin\Debug\StuartsLateFeeCalculator.pdb
+D:\c#\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.csproj.AssemblyReference.cache
+D:\c#\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.csproj.SuggestedBindingRedirects.cache
+D:\c#\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.frmLateGames.resources
+D:\c#\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.frmLibrary.resources
+D:\c#\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.frmMain.resources
+D:\c#\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.frmNew.resources
+D:\c#\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.frmSystems.resources
+D:\c#\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.Properties.Resources.resources
+D:\c#\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.csproj.GenerateResource.cache
+D:\c#\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.csproj.CoreCompileInputs.cache
+D:\c#\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.exe
+D:\c#\Assignment 4\StuartsLateFeeCalculator_4\obj\Debug\StuartsLateFeeCalculator.pdb
+C:\Users\clc21F01\Desktop\c#\Assignment 5\StuartsLateFeeCalculator_5\obj\Debug\StuartsLateFeeCalculator.csproj.AssemblyReference.cache
+C:\Users\clc21F01\Desktop\c#\Assignment 5\StuartsLateFeeCalculator_5\obj\Debug\StuartsLateFeeCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\clc21F01\Desktop\c#\Assignment 5\StuartsLateFeeCalculator_5\obj\Debug\StuartsLateFeeCalculator.frmLateGames.resources
+C:\Users\clc21F01\Desktop\c#\Assignment 5\StuartsLateFeeCalculator_5\obj\Debug\StuartsLateFeeCalculator.frmLibrary.resources
+C:\Users\clc21F01\Desktop\c#\Assignment 5\StuartsLateFeeCalculator_5\obj\Debug\StuartsLateFeeCalculator.frmMain.resources
+C:\Users\clc21F01\Desktop\c#\Assignment 5\StuartsLateFeeCalculator_5\obj\Debug\StuartsLateFeeCalculator.frmNew.resources
+C:\Users\clc21F01\Desktop\c#\Assignment 5\StuartsLateFeeCalculator_5\obj\Debug\StuartsLateFeeCalculator.frmSystems.resources
+C:\Users\clc21F01\Desktop\c#\Assignment 5\StuartsLateFeeCalculator_5\obj\Debug\StuartsLateFeeCalculator.Properties.Resources.resources
+C:\Users\clc21F01\Desktop\c#\Assignment 5\StuartsLateFeeCalculator_5\obj\Debug\StuartsLateFeeCalculator.csproj.GenerateResource.cache
+C:\Users\clc21F01\Desktop\c#\Assignment 5\StuartsLateFeeCalculator_5\obj\Debug\StuartsLateFeeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\clc21F01\Desktop\c#\Assignment 5\StuartsLateFeeCalculator_5\obj\Debug\StuartsLateFeeCalculator.exe
+C:\Users\clc21F01\Desktop\c#\Assignment 5\StuartsLateFeeCalculator_5\obj\Debug\StuartsLateFeeCalculator.pdb
+C:\Users\clc21F01\Desktop\c#\Assignment 5\StuartsLateFeeCalculator_5\bin\Debug\StuartsLateFeeCalculator.exe.config
+C:\Users\clc21F01\Desktop\c#\Assignment 5\StuartsLateFeeCalculator_5\bin\Debug\StuartsLateFeeCalculator.exe
+C:\Users\clc21F01\Desktop\c#\Assignment 5\StuartsLateFeeCalculator_5\bin\Debug\StuartsLateFeeCalculator.pdb
+C:\Users\clc21F01\Desktop\c#\Assignment 5\StuartsLateFeeCalculator_5\obj\Debug\StuartsLateFeeCalculator.frmNewGame.resources
+C:\Users\clc21F01\Desktop\c#\Assignment 5\StuartsLateFeeCalculator_5\obj\Debug\StuartsLateFeeCalculator.frmRentalMaintenance.resources
